@@ -160,4 +160,4 @@ CACHES = memcacheify()
 
 APPEND_SLASH = True
 
-django_heroku.settings(locals(), test_runner=False, staticfiles=False, allowed_hosts=False, secret_key=False)
+django_heroku.settings(locals())
