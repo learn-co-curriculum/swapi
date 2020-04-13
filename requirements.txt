@@ -25,4 +25,4 @@ pylibmc==1.4.1
 requests==2.5.1
 six==1.8.0
 stripe==1.19.1
-whitenoise==1.0.3
+whitenoise==5.0.1
